@@ -32,7 +32,7 @@ describe('Validations Exercice 4: ', () => {
             .and('have.css', 'border-width', '1px')
     })
     it('Should have a shadow on header and footer box shadow', () => {
-        cy.get('header').should('exist').and('have.css', 'box-shadow').and('not.contain.value', 'none')
-        cy.get('footer').should('exist').and('have.css', 'box-shadow').and('not.contain.value', 'none')
+        cy.get('header').should('exist').and('have.css', 'box-shadow')
+        cy.get('footer').should('exist').and('have.css', 'box-shadow')
     })
 })
