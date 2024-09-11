@@ -2,7 +2,7 @@
 
 Votre tâche consiste à utiliser SASS pour styliser la liste de la manière suivante avec le fichier `styles.scss` :
 
-1. Appliquez une **couleur** de texte bleue (`#007bff`) à tous les éléments de liste à l’aide d’une variable (`$blue`) ;
+1. Appliquez une **couleur** de texte bleue (`#0000ff`) à tous les éléments de liste à l’aide d’une variable (`$blue`) ;
 2. Ajoutez un **espacement** intérieur de 10 pixels à gauche des éléments de liste ;
 3. Donnez à chaque élément de liste **une marge** inférieure de 15 pixels.
 
